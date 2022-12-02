@@ -1,0 +1,143 @@
+2022-12-02 23:15:14.108 | INFO     | __main__:_run_client:62 - Starting the client
+2022-12-02 23:26:35.028 | INFO     | __main__:_run_client:62 - Starting the client
+2022-12-02 23:26:38.198 | INFO     | lab.commandclient:_send_command:203 - Sent command "who()" to server
+2022-12-02 23:26:38.199 | INFO     | lab.commandclient:_receive_command:162 - Received 'who("Anton Trotsenko from K-27")' from server
+2022-12-02 23:26:38.200 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1922399394)" to server
+2022-12-02 23:26:38.201 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.202 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1949626942)" to server
+2022-12-02 23:26:38.203 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.204 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1050967487)" to server
+2022-12-02 23:26:38.205 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.205 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(734625786)" to server
+2022-12-02 23:26:38.207 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.207 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1526247210)" to server
+2022-12-02 23:26:38.208 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.209 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1841644325)" to server
+2022-12-02 23:26:38.210 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.211 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(25729348)" to server
+2022-12-02 23:26:38.212 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.212 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(556956859)" to server
+2022-12-02 23:26:38.214 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.214 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(17477080)" to server
+2022-12-02 23:26:38.215 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.216 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-338543259)" to server
+2022-12-02 23:26:38.217 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.218 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(2039611331)" to server
+2022-12-02 23:26:38.235 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(1)' from server
+2022-12-02 23:26:38.236 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-728693259)" to server
+2022-12-02 23:26:38.237 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.237 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1810421235)" to server
+2022-12-02 23:26:38.238 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.239 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-2046630146)" to server
+2022-12-02 23:26:38.240 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.240 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(825217659)" to server
+2022-12-02 23:26:38.241 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.241 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-335727136)" to server
+2022-12-02 23:26:38.242 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.242 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1996556564)" to server
+2022-12-02 23:26:38.243 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.243 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-965309260)" to server
+2022-12-02 23:26:38.244 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.244 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1450680814)" to server
+2022-12-02 23:26:38.245 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.245 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1225073974)" to server
+2022-12-02 23:26:38.246 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.246 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1205398731)" to server
+2022-12-02 23:26:38.246 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.247 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1370816395)" to server
+2022-12-02 23:26:38.247 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.247 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(69069035)" to server
+2022-12-02 23:26:38.248 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.248 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(631212502)" to server
+2022-12-02 23:26:38.249 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.249 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1528322414)" to server
+2022-12-02 23:26:38.250 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.250 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1068125285)" to server
+2022-12-02 23:26:38.250 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.251 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1163329439)" to server
+2022-12-02 23:26:38.251 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.251 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1991937145)" to server
+2022-12-02 23:26:38.252 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.252 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1790996149)" to server
+2022-12-02 23:26:38.253 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.253 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-92854105)" to server
+2022-12-02 23:26:38.253 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.254 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(867786385)" to server
+2022-12-02 23:26:38.254 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.254 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(410026906)" to server
+2022-12-02 23:26:38.255 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.255 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-186915512)" to server
+2022-12-02 23:26:38.255 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.256 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1682070091)" to server
+2022-12-02 23:26:38.256 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.256 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1671697632)" to server
+2022-12-02 23:26:38.257 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.257 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-560947283)" to server
+2022-12-02 23:26:38.257 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.258 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1181270659)" to server
+2022-12-02 23:26:38.258 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.258 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(538557132)" to server
+2022-12-02 23:26:38.259 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.259 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1512588985)" to server
+2022-12-02 23:26:38.259 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.259 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1830059294)" to server
+2022-12-02 23:26:38.260 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.260 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-55601041)" to server
+2022-12-02 23:26:38.260 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.260 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-501084134)" to server
+2022-12-02 23:26:38.261 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.261 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-2046085704)" to server
+2022-12-02 23:26:38.261 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.261 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(734813212)" to server
+2022-12-02 23:26:38.262 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.262 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(445908602)" to server
+2022-12-02 23:26:38.262 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.263 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1371500268)" to server
+2022-12-02 23:26:38.263 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.263 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1903805789)" to server
+2022-12-02 23:26:38.263 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.264 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1685588749)" to server
+2022-12-02 23:26:38.264 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.264 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-740829482)" to server
+2022-12-02 23:26:38.264 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.264 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(708483474)" to server
+2022-12-02 23:26:38.265 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:26:38.265 | INFO     | lab.commandclient:_send_command:203 - Sent command "finishsession()" to server
+2022-12-02 23:26:38.265 | INFO     | lab.commandclient:_receive_command:162 - Received 'stats(50, 1, -2046630146, 2039611331)' from server
+2022-12-02 23:26:38.265 | INFO     | __main__:_run_client:66 - The client closed
+2022-12-02 23:32:17.058 | INFO     | __main__:_run_client:62 - Starting the client
+2022-12-02 23:32:19.503 | INFO     | lab.commandclient:_send_command:203 - Sent command "who()" to server
+2022-12-02 23:32:19.504 | INFO     | lab.commandclient:_receive_command:162 - Received 'who("Anton Trotsenko from K-27")' from server
+2022-12-02 23:32:22.399 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-1)" to server
+2022-12-02 23:32:22.401 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:32:26.157 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1)" to server
+2022-12-02 23:32:26.159 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:32:28.754 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(10000)" to server
+2022-12-02 23:32:28.755 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:32:29.838 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(2)" to server
+2022-12-02 23:32:29.839 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(1)' from server
+2022-12-02 23:32:33.143 | WARNING  | lab.commandclient:_filter_primes:104 - Skipped number 1000000000000 due to OverflowError
+2022-12-02 23:32:36.075 | WARNING  | lab.commandclient:_filter_primes:104 - Skipped number -1000000000000 due to OverflowError
+2022-12-02 23:32:42.812 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(3)" to server
+2022-12-02 23:32:42.812 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(1)' from server
+2022-12-02 23:32:49.617 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1000000007)" to server
+2022-12-02 23:32:49.626 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(1)' from server
+2022-12-02 23:32:52.349 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(4)" to server
+2022-12-02 23:32:52.350 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:32:57.215 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(-3)" to server
+2022-12-02 23:32:57.215 | INFO     | lab.commandclient:_receive_command:162 - Received 'bool(0)' from server
+2022-12-02 23:33:01.058 | INFO     | lab.commandclient:_send_command:203 - Sent command "finishsession()" to server
+2022-12-02 23:33:01.058 | INFO     | lab.commandclient:_receive_command:162 - Received 'stats(8, 3, -3, 1000000007)' from server
+2022-12-02 23:33:01.058 | INFO     | __main__:_run_client:66 - The client closed
+2022-12-02 23:40:27.779 | INFO     | __main__:_run_client:62 - Starting the client
+2022-12-02 23:40:56.365 | INFO     | lab.commandclient:_send_command:203 - Sent command "who()" to server
+2022-12-02 23:46:39.122 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1)" to server
+2022-12-02 23:47:01.358 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1)" to server
+2022-12-02 23:47:05.841 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(2)" to server
+2022-12-02 23:49:45.964 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1)" to server
+2022-12-02 23:55:51.328 | INFO     | __main__:_run_client:62 - Starting the client
+2022-12-02 23:56:05.260 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(2)" to server
+2022-12-02 23:56:09.232 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(3)" to server
+2022-12-02 23:56:15.524 | INFO     | lab.commandclient:_send_command:203 - Sent command "isprime(1)" to server
+2022-12-02 23:56:21.904 | INFO     | lab.commandclient:_send_command:203 - Sent command "finishsession()" to server
+2022-12-02 23:56:30.343 | INFO     | lab.commandclient:_send_command:203 - Sent command "who()" to server
